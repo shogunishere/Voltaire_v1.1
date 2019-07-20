@@ -1,3 +1,4 @@
 node_modules
 webviewer-react-sample
 react-pdf-js-master
+/client/node_modules
